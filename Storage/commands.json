@@ -1,0 +1,69 @@
+{
+    "Help": {
+      "name":"Help",
+      "group":"Member Of The Glorious Communist Party",
+      "desc":"Gives list of commands.",
+      "Usage":"help [role OR command]"
+
+    },
+    "Hook": {
+      "name":"Hook",
+      "group":"Member Of The Glorious Communist Party",
+      "desc":"Returns a Hook in the channel.",
+      "Usage":"hook <Title>, <description>, [color], [avatarURL]"
+
+    },
+    "Purge": {
+
+      "name":"Purge",
+      "group":"Admin++",
+      "desc":"Removes a specified number of messages from the chat",
+      "Usage":"purge <amount>"
+
+    },
+    "Weather": {
+      "name":"Weather",
+      "group":"Member Of The Glorious Communist Party",
+      "desc":"Returns the weather for the specified city.",
+      "Usage":"Weather <location>"
+    },
+    "Dice": {
+      "name":"Dice",
+      "group":"Member Of The Glorious Communist Party",
+      "desc":"Rolls a dice and returns a number from 1 to 6",
+      "Usage":"dice"
+    },
+    "nohomo": {
+      "name":"nohomo",
+      "group":"Member Of The Glorious Communist Party",
+      "desc":"Returns a fun message",
+      "Usage":"nohomo"
+
+    },
+    "Ping": {
+      "name":"Ping",
+      "group":"Member Of The Glorious Communist Party",
+      "desc":"Caveman internet speed test",
+      "Usage":"ping"
+    },
+    "Man": {
+      "name":"Man",
+      "group":"Member Of The Glorious Communist Party",
+      "desc":"Links to the best piece of literature ever written.",
+      "Usage":"man"
+    },
+    "NICOISGAY": {
+      "name":"NICOISGAY",
+      "group":"Hidden",
+      "desc":"Spams Nico",
+      "Usage":"nicoisgay"
+
+
+    }
+
+
+
+
+
+
+}
